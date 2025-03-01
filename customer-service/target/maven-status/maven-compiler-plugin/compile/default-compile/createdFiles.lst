@@ -1,0 +1,4 @@
+org\example\CustomerServiceApplication.class
+org\example\entities\Customer$CustomerBuilder.class
+org\example\entities\Customer.class
+org\example\repository\CustomerRepository.class
