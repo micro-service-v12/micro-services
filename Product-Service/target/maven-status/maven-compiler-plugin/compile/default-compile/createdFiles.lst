@@ -1,0 +1,5 @@
+org\example\Product\Repository\ProductRepository.class
+org\example\Product\ProductServiceApplication.class
+org\example\Product\entities\Product$ProductBuilder.class
+org\example\Product\entities\Product.class
+org\example\Product\Controller\ProductController.class

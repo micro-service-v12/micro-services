@@ -1,0 +1,19 @@
+server:
+  port: 8083
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  application:
+    name: order-service
+  cloud:
+    discovery:
+      enabled: true
+    eureka:
+      client:
+        service-url:
+          defaultZone: http://localhost:8761/eureka
+
+feign:
+  hystrix:
+    enabled: true

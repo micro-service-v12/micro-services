@@ -1,0 +1,10 @@
+org\example\dtos\Customer$CustomerBuilder.class
+org\example\dtos\Customer.class
+org\example\clients\CustomerClient.class
+org\example\dtos\Order$OrderBuilder.class
+org\example\dtos\Order.class
+org\example\OrderServiceApplication.class
+org\example\controllers\OrderController.class
+org\example\dtos\Product.class
+org\example\clients\ProductClient.class
+org\example\dtos\Product$ProductBuilder.class
